@@ -143,7 +143,7 @@ idade = "10"  # O tipo é atualizado para texto (str) de forma dinâmica</code><
   <tr>
     <td>
       <h3>1989: A Origem</h3>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Guido_van_Rossum_in_PyConUS24_%28cropped%29.jpg" width="180" align="left">
+      <img src="Imagens/Guido-van-Rossum.jpg" width="180" align="left">
       <p>Em dezembro de 1989, o programador holandês <b>Guido van Rossum</b>, que trabalhava no centro de pesquisa Centrum Wiskunde & Informatica (CWI) na Holanda, decidiu criar uma nova linguagem. Ele queria um projeto pessoal para se ocupar durante a semana do Natal, pois seu escritório estaria fechado.</p>
       <p><b>A Inspiração:</b> Guido queria uma linguagem que fosse sucessora espiritual da linguagem ABC (que ele ajudou a projetar, mas que apresentava limitações significativas de extensibilidade e sintaxe).</p>
       <p><b>O Nome:</b> O nome "Python" não tem relação com a cobra, mas foi inspirado no grupo de comédia britânico <i>Monty Python</i>, do qual Guido era um grande fã e admirador.</p>
@@ -210,7 +210,7 @@ idade = "10"  # O tipo é atualizado para texto (str) de forma dinâmica</code><
     <td>
       <h3>2001: Fundação da PSF</h3>
       <div align="center">
-        <img src="https://www.python.org/static/img/psf-logo.png" width="300">
+        <img src="Imagens/PSF.png" width="300">
       </div>
       <p>Após o encerramento das atividades do BeOpen PythonLabs, a <b>Python Software Foundation (PSF)</b> é oficialmente criada. Trata-se de uma organização sem fins lucrativos que assumiu definitivamente a propriedade intelectual, as marcas registradas e a governança do Python, assegurando que a linguagem permaneça livre, acessível e descentralizada para todo o planeta.</p>
     </td>
